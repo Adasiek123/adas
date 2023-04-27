@@ -1,0 +1,98 @@
+body{
+    margin: 30px 30px 30px 100px;
+    padding: 0;
+    background-image: url("lech.jpg")
+}
+div{
+    width: 1500px;
+}
+#naglowek{
+    width: 1500px;
+    height: 160px;
+    background-color: blue;
+    color: white;
+    font-size: 70pt;
+}
+#menu{
+    width: 400px;
+    height: 528px;
+    float: left;
+    overflow: hidden;
+    background-color: white;
+    color: blue;
+    font-size: 40pt;
+    text-align: center;
+    line-height: 80px;
+    
+
+}
+#tresc{
+    background-color: rgb(52, 136, 192);
+    background: rgba(52, 136, 192, 0.5);
+    width: 1100px;
+    height: 528px;
+    overflow: hidden;
+    float: left;
+    color: whitesmoke;
+    font-size: 30pt;
+    font-family: 'Courier New', Courier, monospace;
+
+    
+   
+}
+#stopka{
+    clear: both;
+    background-color: blue;
+    width: 1500px;
+    height: 80px;
+    text-align: center;
+    color: white;
+    font-size: 50pt;
+}
+a:hover{
+    color: black;
+    border-style: dotted;
+    font-family: 'Courier New', Courier, monospace;
+    
+    
+
+}
+a:link{
+    text-decoration: none;
+    color: blanchedalmond;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+a:visited{
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+#tresc1{
+    background-image: ("aha.jfif");
+    background: rgba(52, 136, 192, 0.75);
+    width: 1100px;
+    height: 528px;
+    overflow: hidden;
+    float: left;
+    color: white;
+    font-size: 10pt;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+#picture{
+    float: left;
+    width: 230px;
+}
+#aha{
+    position: absolute;
+    left: 500px;
+    top: 320px;
+    
+    
+}
+#okk{
+    position: absolute;
+    right: 100px;
+    bottom: 1000px;
+}
